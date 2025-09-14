@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"90bkbsekhnfbm","package_name":"contracts","contract_name":"CounterContract","module_path":"contracts::counter::CounterContract","artifacts":{"sierra":"contracts_CounterContract.contract_class.json","casm":"contracts_CounterContract.compiled_contract_class.json"}}]}
