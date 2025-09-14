@@ -1,0 +1,36 @@
+{
+  "components/ScaffoldStarkAppWithProviders.tsx -> ~~/components/Footer": {
+    "id": "components/ScaffoldStarkAppWithProviders.tsx -> ~~/components/Footer",
+    "files": [
+      "static/chunks/_app-pages-browser_components_Footer_tsx.js"
+    ]
+  },
+  "components/scaffold-stark/BlockExplorer.tsx -> ./CustomConnectButton/GenericModal": {
+    "id": "components/scaffold-stark/BlockExplorer.tsx -> ./CustomConnectButton/GenericModal",
+    "files": []
+  },
+  "components/scaffold-stark/BlockExplorerSepolia.tsx -> ./CustomConnectButton/GenericModal": {
+    "id": "components/scaffold-stark/BlockExplorerSepolia.tsx -> ./CustomConnectButton/GenericModal",
+    "files": []
+  },
+  "components/scaffold-stark/Faucet.tsx -> ./CustomConnectButton/GenericModal": {
+    "id": "components/scaffold-stark/Faucet.tsx -> ./CustomConnectButton/GenericModal",
+    "files": []
+  },
+  "components/scaffold-stark/FaucetSepolia.tsx -> ./CustomConnectButton/GenericModal": {
+    "id": "components/scaffold-stark/FaucetSepolia.tsx -> ./CustomConnectButton/GenericModal",
+    "files": []
+  },
+  "node_modules/viem/_esm/actions/public/call.js -> ../../utils/ccip.js": {
+    "id": "node_modules/viem/_esm/actions/public/call.js -> ../../utils/ccip.js",
+    "files": []
+  },
+  "node_modules/viem/_esm/utils/rpc/webSocket.js -> isows": {
+    "id": "node_modules/viem/_esm/utils/rpc/webSocket.js -> isows",
+    "files": []
+  },
+  "node_modules/viem/_esm/utils/signature/recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": "node_modules/viem/_esm/utils/signature/recoverPublicKey.js -> @noble/curves/secp256k1",
+    "files": []
+  }
+}
