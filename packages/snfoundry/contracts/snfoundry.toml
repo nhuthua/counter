@@ -1,0 +1,5 @@
+url = "https://starknet-sepolia.public.blastapi.io/rpc/v0_8"
+account = "counter"
+
+[accounts]
+counter = { address = "0x048844e623a6aed08893bb74488f11a61d83eb77874f339a4c048ce63c82c30c", private_key = "0x03276b3b04419477b9c65d1047c0895fdbcde11eaf6a05b3e1c3ceab393c51d9" }
